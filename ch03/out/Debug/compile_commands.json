@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/home/keith/Documents/GitHub/cpp/ch03/out/Debug",
+  "command": "/usr/bin/c++  -I/home/keith/cppincludes/plog-master/include -g -std=gnu++17 -o CMakeFiles/a.dir/src/introToDebugging.cpp.o -c /home/keith/Documents/GitHub/cpp/ch03/src/introToDebugging.cpp",
+  "file": "/home/keith/Documents/GitHub/cpp/ch03/src/introToDebugging.cpp",
+  "output": "CMakeFiles/a.dir/src/introToDebugging.cpp.o"
+},
+{
+  "directory": "/home/keith/Documents/GitHub/cpp/ch03/out/Debug",
+  "command": "/usr/bin/c++  -I/home/keith/cppincludes/plog-master/include -g -std=gnu++17 -o CMakeFiles/a.dir/src/main.cpp.o -c /home/keith/Documents/GitHub/cpp/ch03/src/main.cpp",
+  "file": "/home/keith/Documents/GitHub/cpp/ch03/src/main.cpp",
+  "output": "CMakeFiles/a.dir/src/main.cpp.o"
+}
+]

@@ -1,0 +1,6 @@
+﻿2024-12-30 14:51:24.402 DEBUG [110311] [startPlogging@72] main() called
+2024-12-30 14:51:24.402 DEBUG [110311] [getUserInput@61] getUserInput() called
+2024-12-30 14:51:55.456 DEBUG [110652] [startPlogging@72] main() called
+2024-12-30 14:51:55.456 DEBUG [110652] [getUserInput@61] getUserInput() called
+2024-12-30 14:57:54.976 DEBUG [113129] [startPlogging@72] main() called
+2024-12-30 14:57:54.976 DEBUG [113129] [getUserInput@61] getUserInput() called
