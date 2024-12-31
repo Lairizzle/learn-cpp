@@ -1,0 +1,10 @@
+﻿2024-12-31 09:51:51.021 DEBUG [43061] [startPlogging@17] main() called
+2024-12-31 09:51:51.021 DEBUG [43061] [getUserInput@6] getUserInput() called
+2024-12-31 09:56:13.550 DEBUG [46255] [startPlogging@17] main() called
+2024-12-31 09:56:13.550 DEBUG [46255] [getUserInput@6] getUserInput() called
+2024-12-31 10:32:45.767 DEBUG [61756] [startPlogging@17] main() called
+2024-12-31 10:32:45.767 DEBUG [61756] [getUserInput@6] getUserInput() called
+2024-12-31 10:41:12.444 DEBUG [65615] [startPlogging@17] main() called
+2024-12-31 10:41:12.444 DEBUG [65615] [getUserInput@6] getUserInput() called
+2024-12-31 10:49:31.421 DEBUG [69805] [startPlogging@17] main() called
+2024-12-31 10:49:31.422 DEBUG [69805] [getUserInput@6] getUserInput() called
